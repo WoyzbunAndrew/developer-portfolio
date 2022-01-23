@@ -5,6 +5,7 @@
 
 
 
+
 <div class="hero min-h-screen" 
      style="background-image: url(&quot;https://picsum.photos/id/53/1280/1000/&quot;);">
 
