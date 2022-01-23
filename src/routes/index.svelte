@@ -14,9 +14,10 @@
             <h1 class="mb-1 text-2xl font-bold">
                 ANDREW WOYZBUN
             </h1> 
-            <h1 class="mb-2 text-1xl font-semibold">
+            <h1 class="mb-4 text-1xl font-semibold">
                 UX Designer & Front-End Developer
             </h1> 
+            <a href="/projects" class="btn btn-primary">View Portfolio</a>
         </div>
     </div>
 </div>
